@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Havtorn folders
+*Havtorn/Havtorn/External
+*Havtorn/Havtorn/Source/Core
+*Havtorn/Havtorn/Source/Editor
+*Havtorn/Havtorn/Source/Engine
+*Havtorn/Havtorn/Source/GUI
+*Havtorn/Havtorn/Source/Launcher
+*Havtorn/Havtorn/Source/Platform
